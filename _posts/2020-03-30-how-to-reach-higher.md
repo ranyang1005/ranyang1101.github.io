@@ -8,3 +8,5 @@ Frankly speaking, it is not possible if we consider our human resource carefully
 Firstly, you should know where you are, and where you should be. Please keep in mind the distance cannot be measured simply by Euclidean distance, and several hard leaps are needed.
 
 To be continued
+
+Sam
