@@ -28,7 +28,7 @@ twitter_username: undefined
 github_username:  ranyang1005
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
